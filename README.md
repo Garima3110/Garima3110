@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Garima!</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h1 align="left">Hi there👋, I'm Garima!</h1>
+<h3 align="left">A passionate frontend web developer</h3>
 
 - 👨‍💻Have a look at my portfolio [https://latest-portfolio-beryl.vercel.app/](https://latest-portfolio-beryl.vercel.app/)
 
