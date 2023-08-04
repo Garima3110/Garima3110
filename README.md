@@ -5,7 +5,7 @@
 
 - 📫 How to reach me : **garimab1980@gmail.com**
 
-- 📄 Know about my experiences : [Garima's Resume.pdf](https://drive.google.com/file/d/10RCivCiQ4jVqRINrsBmrsGqVWjOXVUuF/view?usp=sharing)
+- 📄 Know about my experiences : [Garima's Resume.pdf](https://drive.google.com/file/d/1B1wPOQMuF6h7w_c8oP8ChADpU40fM0h7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
