@@ -1,7 +1,7 @@
 <h1 align="left">Hi there👋, I'm Garima!</h1>
 <h3 align="left">A passionate frontend web developer</h3>
 
-- 👨‍💻Have a look at my portfolio : [https://latest-portfolio-beryl.vercel.app/](https://latest-portfolio-beryl.vercel.app/)
+- 👨‍💻Have a look at my portfolio : [Latest Portfolio Website](https://latest-portfolio-beryl.vercel.app/)
 
 - 📫 How to reach me : **garimab1980@gmail.com**
 
