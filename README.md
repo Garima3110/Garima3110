@@ -1,13 +1,16 @@
 <h1 align="left">Hi there👋, I'm Garima!</h1>
 <img src="https://github.com/Garima3110/Garima3110/assets/110815240/9674ad9f-dbcd-4a5a-856c-4def2c35b598" align="right" height="300">
-<h3 align="left">A zealous learner | programmer | developer</h3>
+<h3 align="left"><em>A zealous learner | programmer | developer</em></h3>
+<br>
+<br>
 
 - 👨‍💻Have a look at my portfolio : [Latest Portfolio Website](https://latest-portfolio-beryl.vercel.app/)
 
 - 📫 How to reach me : **garimab1980@gmail.com**
 
 - 📄 Know about my experiences : [Garima's Resume.pdf](https://drive.google.com/file/d/1B1wPOQMuF6h7w_c8oP8ChADpU40fM0h7/view?usp=sharing)
-  
+  <br>
+  <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://bit.ly/3rl7nbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a>
 <a href="https://twitter.com/garima__31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garima__31" height="30" width="40" /></a>
