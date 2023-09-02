@@ -1,6 +1,6 @@
 <h1 align="left">Hi there👋, I'm Garima!</h1>
+<img src="https://github.com/Garima3110/Garima3110/assets/110815240/9674ad9f-dbcd-4a5a-856c-4def2c35b598" align="right" height="325">
 <h3 align="left">A zealous learner | programmer | developer</h3>
-<img src="https://github.com/Garima3110/Garima3110/assets/110815240/9674ad9f-dbcd-4a5a-856c-4def2c35b598" align="right" height="350">
 
 - 👨‍💻Have a look at my portfolio : [Latest Portfolio Website](https://latest-portfolio-beryl.vercel.app/)
 
