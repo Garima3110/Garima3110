@@ -12,7 +12,7 @@
 
 - ✨ Joined Gihub on August 8 , 2022
 
-- ![](https://komarev.com/ghpvc/?username=garima3110&style=flat-square)
+- ![](https://komarev.com/ghpvc/?username=garima3110&style=for-the-badge)
   <br>
   <br>
 <h3 align="left">Connect with me:</h3>
