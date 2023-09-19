@@ -1,6 +1,6 @@
 <h1 align="left">Hii there👋, I'm Garima!</h1>
 <img align="right" height="300" alt="female-cartoon-coder" src="https://github.com/Garima3110/Garima3110/assets/110815240/0a08caac-0af6-415d-80f9-24ad0f1e27df">
-<h3 align="left"><em>A zealous learner | programmer | developer</em></h3>
+<h3 align="left"><em>A zealous learner  |  programmer  |  developer</em></h3>
 <br>
 <br>
 
