@@ -60,7 +60,7 @@
 <br>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=garima3110&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=garima3110&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
