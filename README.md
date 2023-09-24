@@ -56,4 +56,11 @@
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Garima3110&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph" width="1000" />
 </div>
+<br>
+<br>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=garima3110&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
