@@ -13,12 +13,12 @@
 - ✨ Joined Gihub on August 8 , 2022
   <br>
   <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :-)</h3>
 <a href="https://linkedin.com/in/https://bit.ly/3rl7nbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a>
 <a href="https://twitter.com/garima__31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garima__31" height="30" width="40" /></a>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools-</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
