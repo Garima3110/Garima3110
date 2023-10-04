@@ -4,7 +4,6 @@
 <br>
 <br>
 
-- 👨‍💻Have a look at my portfolio : [Latest Portfolio Website](https://latest-portfolio-beryl.vercel.app/)
 
 - 📫 How to reach me : **garimab1980@gmail.com**
 
