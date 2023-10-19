@@ -13,7 +13,7 @@
   <br>
   <br>
 <h3 align="left">Connect with me :-)</h3>
-<a href="https://linkedin.com/in/https://bit.ly/3rl7nbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/garima-bh3110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a>
 <a href="https://twitter.com/garima__31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garima__31" height="30" width="40" /></a>
 
 <br>
