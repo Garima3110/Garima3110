@@ -20,6 +20,9 @@
 <h3 align="left">Languages and Tools-</h3>
 
 <div align="left">
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug"  height="45"/>
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -43,9 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" height="40"/>
-  </a>
 
 </div>
 
