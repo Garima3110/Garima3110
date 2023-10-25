@@ -43,6 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" height="40"/>
+  </a>
 
 </div>
 
