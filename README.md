@@ -69,10 +69,11 @@
 </div> -->
 
 ## 🏆 GitHub Trophies:
-<div align="center"> 
+<p align="center"> 
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=Garima3110&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-</div>
+
+</p>
 <br>
 
 ### ✍ Random Dev Quote
@@ -87,3 +88,4 @@
   
 ![](https://github-contributor-stats.vercel.app/api?username=Garima3110&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
+
