@@ -11,12 +11,14 @@
 - ✨ Joined Gihub on August 8 , 2022
   <br>
   <br>
-<h3 align="left">Connect with me :-)</h3>
-<a href="https://www.linkedin.com/in/garima-bh3110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a>
-<a href="https://twitter.com/garima__31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garima__31" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/garima-bh3110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/garima__31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garima__31" height="30" width="40" /></a> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Garima.) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Garima__31) 
 
 <br>
-<h3 align="left">Languages and Tools-</h3>
+
+## 💻 Tech Stack:
 
 <div align="left">
   <a href="https://pugjs.org" target="_blank" rel="noreferrer">
@@ -49,19 +51,39 @@
 </div>
 
 <br>
-<br>
-<br>
+
+## 📊 GitHub Stats:
+
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garima3110&show_icons=true&locale=en&layout=compact&theme=dark" alt="Garima's most used languages" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Garima3110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph"/>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Garima3110&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph" width="1000" />
 </div>
+
+
 <br>
 <br>
+<!-- <div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=garima3110&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+</div> -->
+
+## 🏆 GitHub Trophies:
+<div align="center"> 
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=Garima3110&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+</div>
+<br>
+
+### ✍ Random Dev Quote
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=garima3110&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
+### 🔝 Top Contributed Repo
+<div align="center">
+
+  
+![](https://github-contributor-stats.vercel.app/api?username=Garima3110&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
