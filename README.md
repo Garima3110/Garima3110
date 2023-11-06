@@ -7,7 +7,6 @@
 
 - 📫 How to reach me : **garimab1980@gmail.com**
 
-- 📄 Know about my experiences : [Garima's Resume.pdf](https://drive.google.com/file/d/1B1wPOQMuF6h7w_c8oP8ChADpU40fM0h7/view?usp=sharing)
 
 - ✨ Joined Gihub on August 8 , 2022
   <br>
