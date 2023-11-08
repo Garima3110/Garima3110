@@ -10,8 +10,7 @@
 
 - ✨ Joined Gihub on August 8 , 2022
   <br>
-<!-- <a href="https://www.linkedin.com/in/garima-bh3110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3rl7nbo" height="30" width="40" /></a> -->
-<!-- <a href="https://twitter.com/garima__31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garima__31" height="30" width="40" /></a> -->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garima-bh3110/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Garima__31) 
@@ -64,9 +63,6 @@
 
 <br>
 <br>
-<!-- <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=garima3110&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-</div> -->
 
 ## 🏆 GitHub Trophies:
 <p align="center"> 
