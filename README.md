@@ -46,8 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img src="https://github.com/Garima3110/Garima3110/assets/110815240/ac0ac42c-86a8-4c3b-b3e9-5bb87253849d" width="50" alt="p5.js logo/>
-  <img src="https://github.com/Garima3110/Garima3110/assets/110815240/e443f28d-9375-464c-8c1f-af26a64adb48" width="50" alt="three.js logo/>
+  <img src="https://github.com/Garima3110/Garima3110/assets/110815240/ac0ac42c-86a8-4c3b-b3e9-5bb87253849d" width="50" alt="p5.js logo"/>
+  <img src="https://github.com/Garima3110/Garima3110/assets/110815240/15465e99-4522-458e-a0e5-07368b6c5560" width="50" alt="three.js logo" filter=invert(1)/>
 
 </div>
 
