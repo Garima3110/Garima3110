@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://github.com/Garima3110/Garima3110/assets/110815240/ac0ac42c-86a8-4c3b-b3e9-5bb87253849d" height="40" alt="p5.js logo/>
 
 </div>
 
