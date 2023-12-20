@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img src="https://github.com/Garima3110/Garima3110/assets/110815240/ac0ac42c-86a8-4c3b-b3e9-5bb87253849d" width="50" alt="p5.js logo"/>
-  <img src="https://github.com/Garima3110/Garima3110/assets/110815240/58693cf1-3430-4325-9198-9a5f0e3de6a9" height="40" />
+<!--   <img src="https://github.com/Garima3110/Garima3110/assets/110815240/58693cf1-3430-4325-9198-9a5f0e3de6a9" height="40" /> -->
 
 
 </div>
