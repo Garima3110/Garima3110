@@ -8,7 +8,7 @@
 - 📫 How to reach me : **garimab1980@gmail.com**
 
 
-- ✨ Joined Gihub on August 8 , 2022
+- ✨ Joined Github on August 8 , 2022
   <br>
 
 ## 🌐 Socials:
